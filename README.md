@@ -1,7 +1,7 @@
-## flask-hello-world
+# flask-hello-world
 this repo contains hello-world project using Flask
 
-# How to Run
+## How to Run
 Before we started, make sure you have installed Python in your system. Click [here](https://www.python.org/downloads/) to install Python. 
 Step :
 1. Install virtualenv and then create new virtual environment using virtualenv
