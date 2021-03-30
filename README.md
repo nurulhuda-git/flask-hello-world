@@ -13,6 +13,7 @@ Step :
    python -m venv env
    ```
 2. Active virtual environment. To activate your brand new virtual environment you use the following command:
+   
    Unix :
    ```bash
    $ source venv/bin/activate
@@ -37,6 +38,7 @@ Step :
    python main.py
    ```
 6. if you wanna simplify command in step 5, you must told virtual env what your apps name using :
+   
    Unix :
    ```bash
    (venv) $ export FLASK_APP=main.py
