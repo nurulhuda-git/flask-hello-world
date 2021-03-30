@@ -37,7 +37,7 @@ Step :
    ```bash
    python main.py
    ```
-6. if you wanna simplify command in step 5, you must told virtual env what your apps name using :
+6. If you wanna simplify command in step 5, you must told virtual env what your apps name using :
    
    Unix :
    ```bash
@@ -47,4 +47,13 @@ Step :
    ```bash
    (venv) $ set FLASK_APP=main.py
    ```
-7. Done.
+7. After declaring environment variable, you can run this project using :
+   ```bash
+   (venv) $ flask run
+   ```
+   or if you wanna run in different port instead of `port=5000`:
+   ```bash
+   (venv) $ flask run --port=5050
+   ```
+8. Done.
+   
